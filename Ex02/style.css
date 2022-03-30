@@ -1,0 +1,20 @@
+.div-a {
+  background-color: rgb(140, 30, 243);
+  height: 250px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.div-b {
+  background-color: #ff69b4;
+  height: 100%;
+  width: 250px;
+  border: 20px dashed rgb(182, 7, 7);
+}
+
+.div-c {
+  background-color: rgb(62, 255, 126);
+  height: 88%;
+  width: 30%;
+}
